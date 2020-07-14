@@ -13,5 +13,14 @@ namespace test_cons
         /// создано на копии проекта
         /// </summary>
         public int get_key { get; set; }
+
+        
+        /// <summary>
+        /// Добавлено свойство из проекта, размещенного test_cons02
+        /// 
+        /// </summary>
+        public string get_mes { get; set; }
+        
+
     }
 }
