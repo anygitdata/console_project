@@ -14,5 +14,6 @@ namespace test_cons
         /// </summary>
         public double get_key { get; set; }
 
+        public string get_mes { get; set; }
     }
 }
