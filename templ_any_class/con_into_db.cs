@@ -12,6 +12,7 @@ namespace test_cons
         /// Доступ к свойству key 
         /// создано на копии проекта
         /// </summary>
-        public int get_key { get; set; }
+        public double get_key { get; set; }
+
     }
 }
